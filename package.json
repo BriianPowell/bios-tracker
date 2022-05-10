@@ -1,0 +1,22 @@
+{
+  "name": "bios-tracker",
+  "version": "1.0.0",
+  "description": "Tool to Track Bios Updates for ROG STRIX Z690-F GAMING WIFI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BriianPowell/bios-tracker.git"
+  },
+  "author": "Brian Powell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BriianPowell/bios-tracker/issues"
+  },
+  "homepage": "https://github.com/BriianPowell/bios-tracker#readme",
+  "dependencies": {
+    "typescript": "^4.6.4"
+  }
+}
